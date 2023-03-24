@@ -1,0 +1,55 @@
+User-agent: *
+
+Disallow:/webmaster.php
+
+Disallow: /connexion_mp.php
+
+Disallow: /connexion_forum.php
+
+Disallow: /connexion_tutoriels.php
+
+Disallow: /inscription_mp.php
+
+Disallow: /modification_profil_mp.php
+
+Disallow: /recherche_pseudo.php
+
+Disallow: /recherche_titre.php
+
+Disallow: /recherche_tutoriel.php
+
+Disallow: /recherche_discipline_forum.php
+
+Disallow: /mp.php
+
+Disallow: /chat_prive.php
+
+Disallow: /chat_prive_post.php
+
+Disallow: /forum.php
+
+Disallow: /tutoriels.php
+
+Disallow: /forum_pc.php
+
+Disallow: /reponses_pc.php
+
+Disallow: /tutoriel_pc.php
+
+Disallow: /mob.maxiechanges.com/webmaster.php
+
+Disallow: /mob.maxiechanges.com/inscription_mp.php
+
+Disallow: /mob.maxiechanges.com/modification_profil_mp.php
+
+Disallow: /mob.maxiechanges.com/mp.php
+
+
+Allow: /index.php
+
+Allow: /proser.php
+
+Allow: /ps5.php
+
+Sitemap: https://www.maxiechanges.com/sitemap.xml
+

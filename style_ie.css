@@ -1,0 +1,7 @@
+#logo, header, #titre_principal, nav, li, #menucontainer, .connectes, .inscrits, .message, .demande, .produit, 
+.forum_questions, .forum_reponses, .annonces, .cour, .dernier_membre, .membres_mp, .messages_mp,
+#langages, #maintenance, #jeux_vidéos, #mini_photo, #mini_photo:hover
+{
+    display: inline;
+    zoom: 1;
+}
